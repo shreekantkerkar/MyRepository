@@ -1,0 +1,24 @@
+li.special{
+    color: aliceblue;
+}
+
+a:hover{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+h1{
+    color: rgba(106, 255, 0, 0.811);
+    background-color: black;
+    background-image:url("img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 400px;
+    width: 400px;
+    font-style: italic;
+}
+
+p{
+    color: rgb(155, 130, 97);
+    text-shadow: 1px 1px 2px black;
+}
